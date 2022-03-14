@@ -2,7 +2,7 @@
 This is a Glass effect which is made with the help of HTML,CSS,JavaScript 
 
 
-LIVE [Link] (https://iamskedy.github.io/glass-effect/) for demo of this Project 
+LIVE [Link](https://iamskedy.github.io/glass-effect/) for demo of this Project 
 🖱🖲💻
 
 
